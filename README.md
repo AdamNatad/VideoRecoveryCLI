@@ -2,7 +2,11 @@
 
 <img src="./Previews/VideoRecovery-CLI.webp" alt="VideoRecovery CLI" width="60%" />
 
-## 📦 [GitHub Link Here](https://github.com/AdamNatad/VideoRecoveryCLI/)
+## 🧑‍💻 **Developer:** [Adam Natad](https://share.google/XM0zgtbTb4bjFJXGE)
+
+<br>
+
+## 📦 [GitHub Repository](https://github.com/AdamNatad/VideoRecoveryCLI/)
 ```
 https://github.com/AdamNatad/VideoRecoveryCLI/
 ```
@@ -78,9 +82,14 @@ If the file isn't playable it might be because the file type is unsupported, the
 #filerecovery #mp4 #corruptvideo
 -------------------------------------------------------------------------------------
 
-►Facebook: [@AdamNatadFB](https://facebook.com/AdamNatadFB)
+## 📬 Contact
 
-►Instagram: [@AdamNatad](https://instagram.com/adamnatad/)
+► Facebook: [@AdamNatadFB](https://facebook.com/AdamNatadFB)  
+► Instagram: [@AdamNatad](https://instagram.com/adamnatad/)  
 
------------------------------------------------------------------------------------------------
+🌐 Website: https://natadtech.com  
+📧 Email: adam@natadtech.com
 
+---
+
+🧑‍💻 **Developer:** [Adam Natad](https://share.google/XM0zgtbTb4bjFJXGE)
