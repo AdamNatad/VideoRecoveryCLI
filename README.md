@@ -1,5 +1,7 @@
 # VideoRecovery CLI by Adam Natad
 
+<img src="./Previews/VideoRecovery-CLI.webp" alt="VideoRecovery CLI" width="60%" />
+
 -------------------------------------------------------------------------------------------
 VIDEO RECOVERY STEPS LISTED BELOW - UPDATED DEC 30, 2022*
 --------------------------------------------------------------------------------------------
