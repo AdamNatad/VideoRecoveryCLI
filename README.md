@@ -1,5 +1,7 @@
+# VideoRecovery CLI by Adam Natad
+
 -------------------------------------------------------------------------------------------
-VIDEO STEPS LISTED BELOW - UPDATED DEC 30, 2022*
+VIDEO RECOVERY STEPS LISTED BELOW - UPDATED DEC 30, 2022*
 --------------------------------------------------------------------------------------------
 ✅Step 1:
 
@@ -65,9 +67,9 @@ If the file isn't playable it might be because the file type is unsupported, the
 #filerecovery #mp4 #corruptvideo
 -------------------------------------------------------------------------------------
 
-►Facebook: [@NatadTech](https://facebook.com/NatadTech)
+►Facebook: [@AdamNatadFB](https://facebook.com/AdamNatadFB)
 
-►Instagram: [@NatadTech](https://instagram.com/NatadTech/)
+►Instagram: [@AdamNatad](https://instagram.com/adamnatad/)
 
 -----------------------------------------------------------------------------------------------
 
