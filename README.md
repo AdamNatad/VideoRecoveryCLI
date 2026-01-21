@@ -2,6 +2,10 @@
 
 <img src="./Previews/VideoRecovery-CLI.webp" alt="VideoRecovery CLI" width="60%" />
 
+## 📦 [GitHub Link Here](https://github.com/AdamNatad/VideoRecoveryCLI/)
+```
+https://github.com/AdamNatad/VideoRecoveryCLI/
+```
 -------------------------------------------------------------------------------------------
 VIDEO RECOVERY STEPS LISTED BELOW - UPDATED DEC 30, 2022*
 --------------------------------------------------------------------------------------------
